@@ -350,6 +350,46 @@
 			<key>Name</key>
 			<string>_slap</string>
 		</dict>
+ 
+		<key>_mad.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>_mad</string>
+			</array>
+			<key>Name</key>
+			<string>_mad</string>
+		</dict>
+ 
+		<key>_military.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>_military</string>
+			</array>
+			<key>Name</key>
+			<string>_military</string>
+		</dict>
+ 
+		<key>_mistake.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>_mistake</string>
+			</array>
+			<key>Name</key>
+			<string>_mistake</string>
+		</dict>
+ 
+		<key>_wait.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>_wait</string>
+			</array>
+			<key>Name</key>
+			<string>_wait</string>
+		</dict>
 		
 		<!-- Not so good emoticons -->
 
