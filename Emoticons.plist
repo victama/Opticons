@@ -390,6 +390,16 @@
 			<key>Name</key>
 			<string>_wait</string>
 		</dict>
+ 
+		<key>_imean.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>_imean</string>
+			</array>
+			<key>Name</key>
+			<string>_imean</string>
+		</dict>
 		
 		<!-- Not so good emoticons -->
 
