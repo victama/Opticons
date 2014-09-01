@@ -400,6 +400,16 @@
 			<key>Name</key>
 			<string>_imean</string>
 		</dict>
+ 
+		<key>_genius.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>_genius</string>
+			</array>
+			<key>Name</key>
+			<string>_genius</string>
+		</dict>
 		
 		<!-- Not so good emoticons -->
 
